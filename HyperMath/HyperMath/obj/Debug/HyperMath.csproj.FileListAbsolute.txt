@@ -1,0 +1,16 @@
+C:\Users\Matija\source\repos\HyperMath\HyperMath\bin\Debug\HyperMath.exe.config
+C:\Users\Matija\source\repos\HyperMath\HyperMath\bin\Debug\HyperMath.exe
+C:\Users\Matija\source\repos\HyperMath\HyperMath\bin\Debug\HyperMath.pdb
+C:\Users\Matija\source\repos\HyperMath\HyperMath\obj\Debug\HyperMath.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\HyperMath\HyperMath\obj\Debug\HyperMath.FormaPocetna.resources
+C:\Users\Matija\source\repos\HyperMath\HyperMath\obj\Debug\HyperMath.Properties.Resources.resources
+C:\Users\Matija\source\repos\HyperMath\HyperMath\obj\Debug\HyperMath.csproj.GenerateResource.cache
+C:\Users\Matija\source\repos\HyperMath\HyperMath\obj\Debug\HyperMath.csproj.CoreCompileInputs.cache
+C:\Users\Matija\source\repos\HyperMath\HyperMath\obj\Debug\HyperMath.exe
+C:\Users\Matija\source\repos\HyperMath\HyperMath\obj\Debug\HyperMath.pdb
+C:\Users\Matija\source\repos\HyperMath\HyperMath\obj\Debug\HyperMath.FormaKombinacijeBezPonavljanja.resources
+C:\Users\Matija\source\repos\HyperMath\HyperMath\obj\Debug\HyperMath.FormaKombinacijeSPonavljanjem.resources
+C:\Users\Matija\source\repos\HyperMath\HyperMath\obj\Debug\HyperMath.FormaPermutacijeBezPonavljanja.resources
+C:\Users\Matija\source\repos\HyperMath\HyperMath\obj\Debug\HyperMath.FormaPermutacijeSPonavljanjem.resources
+C:\Users\Matija\source\repos\HyperMath\HyperMath\obj\Debug\HyperMath.FormaVarijacijeBezPonavljanja.resources
+C:\Users\Matija\source\repos\HyperMath\HyperMath\obj\Debug\HyperMath.FormaVarijacijeSPonavljanjem.resources
